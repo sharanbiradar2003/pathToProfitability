@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sharanbiradar2003/pathToProfitability/static/css/main.f03fbba5.css",
+    "main.js": "/sharanbiradar2003/pathToProfitability/static/js/main.e25e90b7.js",
+    "static/js/488.75f1601f.chunk.js": "/sharanbiradar2003/pathToProfitability/static/js/488.75f1601f.chunk.js",
+    "index.html": "/sharanbiradar2003/pathToProfitability/index.html",
+    "main.f03fbba5.css.map": "/sharanbiradar2003/pathToProfitability/static/css/main.f03fbba5.css.map",
+    "main.e25e90b7.js.map": "/sharanbiradar2003/pathToProfitability/static/js/main.e25e90b7.js.map",
+    "488.75f1601f.chunk.js.map": "/sharanbiradar2003/pathToProfitability/static/js/488.75f1601f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f03fbba5.css",
+    "static/js/main.e25e90b7.js"
+  ]
+}
